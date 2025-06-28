@@ -1,0 +1,19 @@
+restful-api/
+├── controllers/
+│   └── userController.js
+├── models/
+│   └── User.js
+├── routes/
+│   └── userRoutes.js
+├── middlewares/
+│   └── errorHandler.js
+├── config/
+│   └── db.js
+├── tests/
+│   └── user.test.js
+├── docs/
+│   └── api.yaml
+├── .gitignore
+├── package.json
+├── app.js
+└── README.md
